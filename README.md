@@ -2,10 +2,10 @@
 
 <p>I got interested in programming during my IT studies, and more specifically in frontend technologies. Since then, I learn coding systematically. Besides, I follow information from the world of technology, especially computer hardware. And let it not be that I'm just talking about computers - I'm also a big fan of mixed martial arts. After hours, I spend my time playing games with my friends, or I'm busy adding another TV series I have watched to my collection.</p>
 
-
-- 👨‍💻 I am currently working on web development technologies like JavaScript/TypeScript, React etc.
-- 📚 I am currently learning everything about Frontend technologies 😅
-- ⚡ I am currently working on a project in my portfolio, which you can find below, with a description in it.
+I am currently: 
+- 👨‍💻 working with JavaScript/TypeScript and React.
+- 📚 learning everything about Frontend technologies 😅
+- ⚡ working on a project in my portfolio, which you can find below, with a description in it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
