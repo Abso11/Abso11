@@ -28,7 +28,8 @@ I am currently:
 
 <h3>Statistical Data :</h3>
 
-![Abso11's Stats](https://github-readme-stats.vercel.app/api?username=Abso11&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![Abso11's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abso11&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Abso11's Stats](https://github-readme-stats-navy-eight-60.vercel.app/api?username=Abso11&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Abso11's Top Languages](https://github-readme-stats-navy-eight-60.vercel.app/api/top-langs/?username=Abso11&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <br>
 
 <br>
